@@ -1,0 +1,20 @@
+Partlist
+
+Exported from LED.brd at 9/9/18 10:07 PM
+
+EAGLE Version 8.6.3 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package      Library  Position (mil)        Orientation
+
+BATT     CR1220         CR1220-SMD   adafruit (460 310)             R180
+C1       22uF           C0805        adafruit (621.25 700)          R0
+C2       .01uF          C0805        adafruit (621.25 615)          R0
+IC1      LM555D         SO08         adafruit (340 700)             R270
+LED1     green          CHIPLED_0805 adafruit (184 870)             R270
+LED2     green          CHIPLED_0805 adafruit (552 870)             R270
+R1       1k             R0805        adafruit (780 746.02362)       R270
+R2       100k           R0805        adafruit (621.25 785)          R0
+R3       100R           R0805        adafruit (368 870)             R180
+R4       100R           R0805        adafruit (736 870)             R180
